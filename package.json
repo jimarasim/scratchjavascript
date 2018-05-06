@@ -1,0 +1,19 @@
+{
+  "name": "scratchjavascript",
+  "version": "1.0.0",
+  "description": "random javascript code samples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimarasim/scratchjavascript.git"
+  },
+  "author": "james arasim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimarasim/scratchjavascript/issues"
+  },
+  "homepage": "https://github.com/jimarasim/scratchjavascript#readme"
+}
